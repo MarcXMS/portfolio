@@ -115,9 +115,9 @@
 
         <div class="secondaryContainer" key="8">
           <h3 class="text-3xl font-bold text-left" style="margin-bottom: 10px; margin-top: -10px;">Password Reset for Alfresco</h3>
-          <a href="/" class="">
+          <div class="">
             <img src="/src/assets/reset.png" class="projectImg" />
-          </a>
+          </div>
 
           <div class="text-left text-lg font-bold" style="margin-top: 10px;">Password reset dialog plugin for the Open-Source ECM Alfresco</div>
           <div class="text-left text-lg"><span class="font-bold">Tech:</span> Vue 3 & Express (Node.js)
