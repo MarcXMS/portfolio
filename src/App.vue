@@ -83,7 +83,7 @@
             <img src="/src/assets/elli.png" class="projectImg" />
           </a>
 
-          <div class="text-left text-lg font-bold" style="margin-top: 10px;">Web-App to book public and private boat trips
+          <div class="text-left text-lg font-bold" style="margin-top: 10px;">Web App to book public and private boat trips
             with booking managment tools for staff</div>
           <div class="text-left text-lg"><span class="font-bold">Tech:</span> Vue 3, WebSockets, Express (Node.js), NocoDB
             (PostgreSQL)</div>
