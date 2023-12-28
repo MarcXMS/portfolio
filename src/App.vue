@@ -56,7 +56,7 @@
               <img src="/src/assets/postgresql.svg" />
             </div>
 
-            <div class="tooltip w-16 h-16 flex justify-center" data-tip="Apache">
+            <div class="tooltip w-16 h-16 flex justify-center" data-tip="Apache Webserver">
               <img src="/src/assets/apache.svg" class="h-16" />
             </div>
 
