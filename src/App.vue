@@ -92,7 +92,7 @@
 
         <div class="secondaryContainer" key="8">
           <h3 class="text-3xl font-bold text-left" style="margin-bottom: 10px; margin-top: -10px;">Fahrmit</h3>
-          <a href="https://fahrmit.ole.land" target="_blank" class="">
+          <a href="https://dev.fahrmit.ole.land" target="_blank" class="">
             <img src="/src/assets/fahrmit.png" class="projectImg" />
           </a>
 
